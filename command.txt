@@ -1,0 +1,3 @@
+sudo killall ffmpeg
+
+ps -ef | grep ffmpeg 
